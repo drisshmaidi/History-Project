@@ -1,19 +1,25 @@
-img {
-    border-radius: 100px;
-    justify-content: left;
-    height: 300px;
-    text-align: left;
-    display: flex;
-    padding-bottom: 20px;
+h2{
+background-color: blue;
+font-size:45px;
+font-style:italic;
+text-align:center;
+font-family:'Courier New', Courier, monospace;
+color: white;
 }
-
-h1 {
-    color: red;
+body{
+font-size:larger;
+background-color: aqua;
 }
-
-iframe {
-    border-radius: 50px;
-    justify-content: left;
+iframe{
+margin-right: auto;
 }
+p{
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+color: black;
+}
+ img{
+background-color: yellow;
+ }
 
     
